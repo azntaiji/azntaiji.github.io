@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: azntaiji
 
 # Build settings
-theme: minima
+remote_theme: jekyller/jasper
 plugins:
   - jekyll-feed
 
