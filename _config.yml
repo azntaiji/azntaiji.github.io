@@ -27,7 +27,7 @@ url: "http://blog.zachtaiji.com" # the base hostname & protocol for your site, e
 twitter_username: azntaiji
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
@@ -50,5 +50,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-cayman
