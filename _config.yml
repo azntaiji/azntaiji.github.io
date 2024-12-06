@@ -1,35 +1,38 @@
+title: no style, please! # name of the site
+author: Zach Taiji # name of site's author
+email: zach@azntaiji.com # email of site's author
+#url: https://riggraz.dev # root address of the site
+baseurl: ""
+
+permalink: /:slug.html
+
+theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Where things are
 source              : .
 #destination         : ./_site
-collections_dir     : .
-plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
-sass:
-  sass_dir: _sass
 collections:
   posts:
     output          : true
-
-# Handling Reading
-safe                : false
-include             : [".htaccess"]
-exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
-keep_files          : [".git", ".svn"]
-encoding            : "utf-8"
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
 
 # Filtering Content
 show_drafts         : null
 limit_posts         : 0
 future              : false
 unpublished         : false
-
-# Plugins
-whitelist           : []
-plugins             : []
 
 # Conversion
 markdown            : kramdown
@@ -38,26 +41,13 @@ lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
 
-# Serving
-detach              : false
-port                : 4000
-host                : 127.0.0.1
-baseurl             : "" # does not include hostname
-show_dir_listing    : false
-
 # Outputting
-permalink           : 
-paginate_path       : /page:num
-timezone            : America/Los_angeles
+#paginate_path       : /page:num
+timezone            : America/Los_Angeles
 
 quiet               : false
 verbose             : false
 defaults            : []
-
-liquid:
-  error_mode        : warn
-  strict_filters    : false
-  strict_variables  : false
 
 # Markdown Processors
 kramdown:
