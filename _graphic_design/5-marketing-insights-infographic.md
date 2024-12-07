@@ -1,6 +1,6 @@
 ---
 title: 5 Marketing Insights Infographic
-layout: post
+
 category: graphic-design
 date: 2024-01-31
 modified: 2024-01-31

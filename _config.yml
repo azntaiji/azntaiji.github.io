@@ -6,11 +6,24 @@ sass:
   style: compressed
 collections_dir: .
 collections:
-  posts:
-    output          : true
   graphic-design:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
+defaults:
+  - scope:
+      path: ""
+      type: "graphic_design"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
 
 # Plugins
 plugins:
@@ -37,7 +50,6 @@ timezone            : America/Los_Angeles
 
 quiet               : false
 verbose             : false
-defaults            : []
 
 # Markdown Processors
 kramdown:

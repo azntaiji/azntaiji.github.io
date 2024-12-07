@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: About
+  link: https://github.com/azntaiji
+- name: Blog
+  link: https://zachtaiji.com/blog

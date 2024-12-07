@@ -1,0 +1,7 @@
+<nav>
+    {% for item in site.data.links %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: black; text-decoration: none"{% endif %}>
+        {{ item.name }}`
+      </a>
+    {% endfor %}
+</nav>

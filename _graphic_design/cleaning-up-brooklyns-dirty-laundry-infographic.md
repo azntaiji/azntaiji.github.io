@@ -1,5 +1,6 @@
 ---
 title: Cleaning up Brooklyns Dirty Laundry Infographic
+
 category: graphic-design
 date: 2024-01-31
 modified: 2024-01-31

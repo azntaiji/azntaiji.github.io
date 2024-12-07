@@ -1,6 +1,6 @@
 ---
 layout: home
-title: this is a title
+title: zach taiji
 ---
 
 - [Graphic Design Portfolio](graphic-design.md)
