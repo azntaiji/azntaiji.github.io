@@ -1,5 +1,6 @@
 ---
 layout: home
+title: this is a title
 ---
 
 - [Graphic Design Portfolio](graphic-design.md)
