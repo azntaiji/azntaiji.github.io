@@ -1,5 +1,6 @@
 ---
 title: Predicting Startup Unicorns Report and Infographic
+category: graphic-design
 date: 2024-01-31
 modified: 2024-01-31
 pinned: false

@@ -1,5 +1,6 @@
 ---
 title: Social Value Report Infographic
+category: graphic-design
 date: 2024-01-31
 modified: 2024-01-31
 pinned: false
