@@ -32,13 +32,13 @@ Mostly technology product launches/reviews:
 
 I led the research for these reports, infographics, and data-based stories. I designed the infographics and visuals and secured all media placements:
 
-- [The role Indians play in America’s billion-dollar startup ecosystem Report and Infographic](_graphicdesign/the-role-indians-play-in-americas-billion-dollar-startup-ecosystem-report-and-infographic.md)—Featured in Quartz
-- [Predicting Startup Unicorns Report and Infographic](_graphicdesign/predicting-startup-unicorns-report-and-infographic.md)—Featured on Inc. Magazine and winner of PR Daily Award
-- [GDPR Infographic and Report](_graphicdesign/gdpr-infographic-and-report.md)—Featured in MarTech Today
-- [Cleaning up Brooklyns Dirty Laundry Infographic](_graphicdesign/cleaning-up-brooklyns-dirty-laundry-infographic.md)—Featured on NY Daily News
-- [Research: Restricting free speech isn’t the solution to violence and hate speech]https://thenextweb.com/news/research-restricting-free-speech-isnt-the-solution-to-violence-and-hate-speech)—Featured in The Next Web
+- [The role Indians play in America’s billion-dollar startup ecosystem Report and Infographic](/graphicdesign/the-role-indians-play-in-americas-billion-dollar-startup-ecosystem-report-and-infographic)—Featured in Quartz
+- [Predicting Startup Unicorns Report and Infographic](/graphicdesign/predicting-startup-unicorns-report-and-infographic)—Featured on Inc. Magazine and winner of PR Daily Award
+- [GDPR Infographic and Report](/graphicdesign/gdpr-infographic-and-report)—Featured in MarTech Today
+- [Cleaning up Brooklyns Dirty Laundry Infographic](/graphicdesign/cleaning-up-brooklyns-dirty-laundry-infographic)—Featured on NY Daily News
+- [Research: Restricting free speech isn’t the solution to violence and hate speech](https://thenextweb.com/news/research-restricting-free-speech-isnt-the-solution-to-violence-and-hate-speech)—Featured in The Next Web
 - [While bots get the buzz, apps get the lion's share of funding](https://www.zdnet.com/article/while-bots-get-the-buzz-apps-get-the-lions-share-of-funding-according-to-report/)—Featured in ZDNet
-- [SaaS IPOS Then and Now Infographic](_graphicdesign/saas-ipos-then-and-now-infographic.md)—Featured in Entrepreneur Magazine
+- [SaaS IPOS Then and Now Infographic](/graphicdesign/saas-ipos-then-and-now-infographic)—Featured in Entrepreneur Magazine
 
 # Thought Leadership and other Writing Samples
 
