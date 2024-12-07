@@ -14,4 +14,4 @@ tags:
 
 Featured in [Entrepreneur](https://www.entrepreneur.com/living/7-key-insights-from-top-business-leaders-infographic/245727) and [Inc. Magazine](https://www.inc.com/laura-montini/infographic/7-tips-for-entrepreneurs-by-entrepreneurs.html)
 
-![[/assets/5-Marketing-Insights-Infographic-v1_s.jpg]]
+![image](/assets/5-Marketing-Insights-Infographic-v1_s.jpg)

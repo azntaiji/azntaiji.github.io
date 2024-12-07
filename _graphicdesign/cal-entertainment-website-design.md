@@ -12,4 +12,4 @@ tags:
 ---
 Website design for [CAL Entertainment](https://calentertainment.com) speaker bureau.
 
-![[/assets/cal-entertainment-website.jpg]]
+![image](/assets/cal-entertainment-website.jpg)

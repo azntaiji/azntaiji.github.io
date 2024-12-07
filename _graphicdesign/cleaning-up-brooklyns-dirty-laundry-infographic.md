@@ -14,4 +14,4 @@ tags:
 
 Created an infographic for FlyCleaners, analyzing Brooklyn’s dirty laundry — [featured in NY Daily News](https://www.nydailynews.com/new-york/gasp-brooklyn-hipster-neighborhoods-business-casual-cleaners-article-1.1602158).
 
-![[/assets/infographic-6.jpg]]
+![image](/assets/infographic-6.jpg)

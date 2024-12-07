@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/ebb-infographic-v2.jpg]]
+![image](/assets/ebb-infographic-v2.jpg)

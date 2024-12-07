@@ -12,4 +12,4 @@ tags:
 ---
 Website design for [Blum Tasty Almonds](https://eatblum.com).
 
-![[/assets/blum-website.jpg]]
+![image](/assets/blum-website.jpg)

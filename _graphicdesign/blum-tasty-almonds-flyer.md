@@ -11,4 +11,4 @@ tags:
   - graphic-design
 ---
 
-![[/assets/Front 2.jpg]]
+![image](/assets/Front 2.jpg)

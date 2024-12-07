@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/WarForTheWeb.jpg]]
+![image](/assets/WarForTheWeb.jpg)

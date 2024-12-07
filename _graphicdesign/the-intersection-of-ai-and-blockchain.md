@@ -15,4 +15,4 @@ tags:
 
 [Featured and published on CoinMonks.](https://medium.com/coinmonks/the-intersection-of-ai-and-blockchain-an-infographic-d33578fe3235)
 
-![[/assets/ai-blockchain.jpg]]
+![image](/assets/ai-blockchain.jpg)

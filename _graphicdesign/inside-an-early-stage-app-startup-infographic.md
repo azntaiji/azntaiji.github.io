@@ -13,4 +13,4 @@ tags:
 ---
 Created an infographic for ROKO Labs providing an inside look at an early-stage startup. [Featured on WhatPixel.](https://whatpixel.com/infographic-jobs-found-in-early-stage-tech-startups/)
 
-![[/assets/Early-Stage Startup Jobs Infographic.jpg]]
+![image](/assets/Early-Stage Startup Jobs Infographic.jpg)

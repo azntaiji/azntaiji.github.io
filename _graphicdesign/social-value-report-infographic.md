@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/Social-Value-Report-2015-7_s.jpg]]
+![image](/assets/Social-Value-Report-2015-7_s.jpg)

@@ -11,4 +11,4 @@ tags:
   - graphic-design
 ---
 
-![[/assets/2024-01-31_20-45-07.jpeg]]
+![image](/assets/2024-01-31_20-45-07.jpeg)

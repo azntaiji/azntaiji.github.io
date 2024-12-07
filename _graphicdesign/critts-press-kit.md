@@ -11,10 +11,10 @@ tags:
   - graphic-design
 ---
 
-![[/assets/2024-01-31_21-27-45.jpeg]]
+![image](/assets/2024-01-31_21-27-45.jpeg)
 
-![[/assets/2024-01-31_21-27-59.jpeg]]
+![image](/assets/2024-01-31_21-27-59.jpeg)
 
-![[/assets/2024-01-31_21-28-23.jpeg]]
+![image](/assets/2024-01-31_21-28-23.jpeg)
 
-![[/assets/2024-01-31_21-28-35.jpeg]]
+![image](/assets/2024-01-31_21-28-35.jpeg)

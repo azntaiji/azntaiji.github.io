@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/Continental_Digitalisation_ZonarSightIQInfographic_m.jpg]]
+![image](/assets/Continental_Digitalisation_ZonarSightIQInfographic_m.jpg)

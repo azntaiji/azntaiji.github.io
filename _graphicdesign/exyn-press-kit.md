@@ -11,18 +11,18 @@ tags:
   - graphic-design
 ---
 
-![[/assets/2024-01-31_21-31-12.jpeg]]
+![image](/assets/2024-01-31_21-31-12.jpeg)
 
-![[/assets/2024-01-31_21-31-25.jpeg]]
+![image](/assets/2024-01-31_21-31-25.jpeg)
 
-![[/assets/2024-01-31_21-31-40.jpeg]]
+![image](/assets/2024-01-31_21-31-40.jpeg)
 
-![[/assets/2024-01-31_21-31-54.jpeg]]
+![image](/assets/2024-01-31_21-31-54.jpeg)
 
-![[/assets/2024-01-31_21-32-09.jpeg]]
+![image](/assets/2024-01-31_21-32-09.jpeg)
 
-![[/assets/2024-01-31_21-32-30.jpeg]]
+![image](/assets/2024-01-31_21-32-30.jpeg)
 
-![[/assets/2024-01-31_21-32-43.jpeg]]
+![image](/assets/2024-01-31_21-32-43.jpeg)
 
-![[/assets/2024-01-31_21-33-02.jpeg]]
+![image](/assets/2024-01-31_21-33-02.jpeg)

@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/xMatters Free Infographic.jpg]]
+![image](/assets/xMatters Free Infographic.jpg)

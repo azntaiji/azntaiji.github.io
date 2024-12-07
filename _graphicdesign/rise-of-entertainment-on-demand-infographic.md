@@ -14,4 +14,4 @@ tags:
 
 Created an infographic for Ninja Metrics about the rise of entertainment on demand, like Netflix, Hulu, and Spotify. Also performed the research and media outreach, with [key placement in AdWeek Magazine](https://www.adweek.com/tv-video/infographic-rise-entertainment-demand-164529/).
 
-![[/assets/Rise-of-Entertainment-Infographic-v1_s.jpg]]
+![image](/assets/Rise-of-Entertainment-Infographic-v1_s.jpg)

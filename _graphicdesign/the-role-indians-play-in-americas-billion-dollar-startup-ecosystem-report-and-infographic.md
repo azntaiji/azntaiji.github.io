@@ -19,4 +19,4 @@ Performed an extensive study on Indian Americans and the role they play in tech,
 
 [You can view the full article and report here.](https://qz.com/india/1050736/then-and-now-the-role-indians-play-in-americas-billion-dollar-startup-ecosystem/)
 
-![[/assets/Indian Americans Infographic.jpg]]
+![image](/assets/Indian Americans Infographic.jpg)

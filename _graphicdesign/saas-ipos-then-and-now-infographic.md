@@ -14,4 +14,4 @@ tags:
 
 [Featured in Entrepreneur Magazine.](https://www.entrepreneur.com/science-technology/cloud-based-tech-companies-are-hot-ipo-candidates/231674)
 
-![[/assets/Cloud-Based Tech Companies Infographic.jpg]]
+![image](/assets/Cloud-Based Tech Companies Infographic.jpg)

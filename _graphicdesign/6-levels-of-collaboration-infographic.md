@@ -14,4 +14,4 @@ tags:
 
 Designed an infographic for xMatters on the 6 steps of collaboration, to compliment an eBook/Whitepaper.
 
-![[/assets/Collaboration Proficiency infographic.jpg]]
+![image](/assets/Collaboration Proficiency infographic.jpg)

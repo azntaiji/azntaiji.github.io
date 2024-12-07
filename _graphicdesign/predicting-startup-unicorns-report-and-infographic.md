@@ -18,4 +18,4 @@ Featured in [Inc. Magazine](https://www.inc.com/tess-townsend/10-startups-that-c
 
 [Also a winner of PR Daily's 2016 Content Marketing Awards.](https://www.prdaily.com/awards/content-marketing-awards/2016/winners/infographics/)
 
-![[/assets/FutureUnicorns v10 from Inc.jpg]]
+![image](/assets/FutureUnicorns v10 from Inc.jpg)

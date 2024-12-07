@@ -11,4 +11,4 @@ tags:
   - webdesign
 ---
 Website design for [Highland Refrigeration](https://highlandref.com).
-![[/assets/highland-refrigeration-website.jpg]]
+![image](/assets/highland-refrigeration-website.jpg)

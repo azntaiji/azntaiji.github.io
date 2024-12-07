@@ -13,4 +13,4 @@ tags:
 
 Website design for [Johnson and Gunstone Shellfish](https://www.jgshellfish.com/).
 
-![[/assets/2024-02-04_15-18-11.jpeg]]
+![image](/assets/2024-02-04_15-18-11.jpeg)

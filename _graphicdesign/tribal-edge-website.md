@@ -11,4 +11,4 @@ tags:
   - webdesign
 ---
 
-![[/assets/tribal-edge-website-design.jpg]]
+![image](/assets/tribal-edge-website-design.jpg)

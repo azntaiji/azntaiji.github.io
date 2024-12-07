@@ -12,4 +12,4 @@ tags:
   - infographics
 ---
 
-![[/assets/bricksetInfographic-v1_3_l.jpg]]
+![image](/assets/bricksetInfographic-v1_3_l.jpg)

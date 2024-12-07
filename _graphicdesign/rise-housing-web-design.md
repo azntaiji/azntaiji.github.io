@@ -12,4 +12,4 @@ tags:
   - ui-ux
 ---
 
-![[/assets/RiseHousing-Dashboard_inBrowser.jpg]]
+![image](/assets/RiseHousing-Dashboard_inBrowser.jpg)

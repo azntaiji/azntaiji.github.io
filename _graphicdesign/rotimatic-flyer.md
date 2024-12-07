@@ -11,4 +11,4 @@ tags:
   - graphic-design
 ---
 
-![[/assets/roti.jpg]]
+![image](/assets/roti.jpg)
